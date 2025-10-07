@@ -2,27 +2,27 @@
 
 # Bernardo Cardoso
 
-Estudante de **Eng. Informática @ ISEP** • **Full-stack Web Developer**  
+**Computer Engineering Student @ ISEP** • **Full-stack Web Developer**  
 📍 Porto, Portugal
 
 [![Email](https://img.shields.io/badge/Email-bernardogcardoso11%40gmail.com-red?style=flat&logo=gmail)](mailto:bernardogcardoso11@gmail.com)
-<!-- Dica: adiciona aqui o teu LinkedIn quando tiveres o link -->
+<!-- Add your LinkedIn/GitHub Pages/Portfolio links here when ready -->
 
 </div>
 
 ---
 
-### Sobre mim
-- 3.º ano de **Engenharia Informática (ISEP)**, apaixonado por backend + frontend e por resolver problemas com impacto real.  
-- Valorizo qualidade, performance e boa arquitetura — mas sem perder a velocidade de entrega.  
-- Gosto de trabalhar em equipa, code reviews e CI/CD.
+## About me
+- 3rd-year **Computer Engineering (ISEP)** student, passionate about building useful products end-to-end.
+- Care about clean architecture, performance and DX, without slowing down delivery.
+- Enjoy teamwork, code reviews and CI/CD.
 
-### O que ando a fazer
-- **Web Dev @ GS Improve (2025)** — módulos críticos numa aplicação para **personalização de veículos de emergência**: modelação de dados, APIs/serviços, integrações e acompanhamento de deploy; definição de standards e performance.  
-- **Web Dev @ JuniFEUP (2025)** — desenvolvimento do site da **LBV (Legião da Boa Vontade)**: features, ligação front ↔ back, consumo de APIs e correção de bugs até à entrega.  
-- **Barbot (2022–2023)** — estágio: app web de **gestão de stock de IT** (inventário, check-in/out, alertas) + otimização de sites da marca; suporte IT e organização de infra (AD, shares, patching).
+## What I'm working on
+- **Web Dev @ GS Improve (2025)** — core modules for an app focused on **emergency vehicle customization**: data modeling, APIs/services, integrations and deployment follow-up; helped define standards and improve performance.
+- **Web Dev @ JuniFEUP (2025)** — development of the **LBV (Legião da Boa Vontade)** website: new features, front↔back integration, API consumption and bug fixes to delivery.
+- **Barbot (2022–2023)** — internship: web app for **IT stock management** (inventory, check-in/out, alerts) + site optimizations; IT support and infra organization (AD, shares, patching).
 
-### Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,30 +37,24 @@ Estudante de **Eng. Informática @ ISEP** • **Full-stack Web Developer**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-### Projetos (destaques)
-- **Sports Club Management Platform** — plataforma full-stack para gestão de clube.  
-- **Business Management Platform** — dev de software em equipa, foco em arquitetura e qualidade.  
-- **LBV (site)** — desenvolvimento em equipa para a Legião da Boa Vontade.  
-- **PAP (Projeto de Aptidão Profissional)** — projeto final de curso secundário.
+## Featured projects
+- **Sports Club Management Platform** — full-stack platform for club operations.  
+- **Business Management Platform** — team project with focus on architecture and code quality.  
+- **LBV Website** — development in collaboration with JuniFEUP.  
+- **PAP (Final Secondary Project)** — capstone project.
 
-> (Quando publicares os repositórios, adiciona links aqui.)
 
-### Prémios
-- **ONI – Olimpíadas Nacionais de Informática (Jun 2023): Top 21**  
-- **TECLA – Torneio Estudantil de Computação Multilinguagem de Aveiro (Mar 2022): 1.º lugar**
+## Awards
+- **ONI – National Olympiad in Informatics (Jun 2023): Top 21**  
+- **TECLA – Aveiro Multilanguage Computing Tournament (Mar 2022): 1st place**
 
 ---
 
-### Estatísticas (automático)
+## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardCardoso11&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardCardoso11&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Snake das contribuições
-![Snake animation](https://raw.githubusercontent.com/BernardCardoso11/BernardCardoso11/output/snake.svg)
-
 ---
 
-#### Como falar comigo
+### Contact
 ✉️ **bernardogcardoso11@gmail.com**
-
-<!-- Nota: o email fica público no teu perfil; usa um contacto “profissional” se preferires. -->
