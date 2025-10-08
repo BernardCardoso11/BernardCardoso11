@@ -49,7 +49,7 @@ While I strive for quality, I sometimes focus too much on details and can be sel
 - **Sports Club Management Platform (PAP – Final Secondary Project)** — full-stack platform for club operations.  
 - **Business Management Platform (LBV Website)** — team project with focus on architecture and code quality; development in collaboration with JuniFEUP.
 
-## Awards
+## Honors & Awards
 - **ONI – National Olympiad in Informatics (Jun 2023): Top 21**  
 - **TECLA – Aveiro Multilanguage Computing Tournament (Mar 2022): 1st place**
 
