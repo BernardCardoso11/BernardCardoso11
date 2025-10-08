@@ -5,8 +5,19 @@
 **Computer Engineering Student @ ISEP** • **Full-stack Web Developer**  
 📍 Porto, Portugal
 
-[![Email](https://img.shields.io/badge/Email-bernardogcardoso11%40gmail.com-red?style=flat&logo=gmail)](mailto:bernardogcardoso11@gmail.com)
-<!-- Add your LinkedIn/GitHub Pages/Portfolio links here when ready -->
+<p>
+  <a href="mailto:bernardogcardoso11@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bernardo-cardoso-596b44369" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/__bernardo_cardoso__/" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram" />
+  </a>
+</p>
 
 </div>
 
