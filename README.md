@@ -2,7 +2,7 @@
 
 # Bernardo Cardoso
 
-**Computer Engineering Student @ ISEP** • **Full-stack Web Developer**  
+**Computer Engineering Student @ISEP** • **Full-stack Web Developer**  
 📍 Porto, Portugal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-cardoso-596b44369)
@@ -18,8 +18,8 @@ As a third-year Informatics Engineering student at ISEP, I am passionate about t
 While I strive for quality, I sometimes focus too much on details and can be self-critical, but this drives me to improve continuously.
 
 ## What I'm working on
-- **Web Dev @ GS Improve (2025)** — core modules for an app focused on **emergency vehicle customization**: data modeling, APIs/services, integrations and deployment follow-up; helped define standards and improve performance.
-- **Web Dev @ JuniFEUP (2025)** — development of the **LBV (Legião da Boa Vontade)** website: new features, front↔back integration, API consumption and bug fixes to delivery.
+- **Web Dev GS Improve (2025)** — core modules for an app focused on **emergency vehicle customization**: data modeling, APIs/services, integrations and deployment follow-up; helped define standards and improve performance.
+- **Web Dev @JuniFEUP (2025)** — development of the **LBV (Legião da Boa Vontade)** website: new features, front↔back integration, API consumption and bug fixes to delivery.
 - **Barbot (2022–2023)** — internship: web app for **IT stock management** (inventory, check-in/out, alerts) + site optimizations; IT support and infra organization (AD, shares, patching).
 
 ## Tech Stack
