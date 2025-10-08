@@ -56,7 +56,7 @@ While I strive for quality, I sometimes focus too much on details and can be sel
 ---
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BernardCardoso11&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![BernardCardoso11's Stats](https://github-readme-stats.vercel.app/api?username=BernardCardoso11&theme=dark&show_icons=true&hide_border=false&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardCardoso11&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
