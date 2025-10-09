@@ -14,8 +14,8 @@
 ---
 
 ## About me
-As a third-year Informatics Engineering student at ISEP, I am passionate about technology and software development. I have strong problem-solving skills, attention to detail, and the ability to work both independently and in a team. My adaptability and eagerness to learn help me tackle challenges effectively.  
-While I strive for quality, I sometimes focus too much on details and can be self-critical, but this drives me to improve continuously.
+As a third-year Informatics Engineering student at ISEP, I am passionate about technology and software development. I have strong problem-solving skills, attention to detail, and the ability to work both independently and in a team. My adaptability and eagerness to learn help me tackle challenges effectively.
+Focused on clean architecture, performance and delivery in cross-functional teams.
 
 ## What I'm working on
 - **Web Dev GS Improve (2025)** — core modules for an app focused on **emergency vehicle customization**: data modeling, APIs/services, integrations and deployment follow-up; helped define standards and improve performance.
